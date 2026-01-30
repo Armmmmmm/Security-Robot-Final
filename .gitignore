@@ -1,0 +1,9 @@
+build/
+install/
+log/
+venv/
+.vscode/
+*.pdf
+*.gv
+*.pgm
+*.yaml
