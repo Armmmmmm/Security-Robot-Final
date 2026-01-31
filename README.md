@@ -15,4 +15,4 @@
 1. Clone Repository
    ```bash
    cd ~/ros2_ws/src
-   git clone https://github.com/Armmmmmm/Security-Robot-Final
+   git clone https://github.com/Armmmmmm/Security-Robot-ROS2-Final
